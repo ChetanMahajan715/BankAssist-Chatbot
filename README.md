@@ -95,6 +95,9 @@ rates with the bank and consulting a relationship manager for personal advice.
 
 ## Getting started
 
+> **Model update:** Groq has since retired `llama-3.3-70b-versatile`, the model this project was built with. To run it today, set a current Groq model in `.env`, for example `GROQ_MODEL=openai/gpt-oss-120b` ([available models](https://console.groq.com/docs/models)).
+
+
 **Requirements:** Python 3.10 - 3.12, a Groq API key, Redis (optional).
 
 ```bash
