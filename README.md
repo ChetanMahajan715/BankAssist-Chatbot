@@ -101,8 +101,8 @@ rates with the bank and consulting a relationship manager for personal advice.
 **Requirements:** Python 3.10 - 3.12, a Groq API key, Redis (optional).
 
 ```bash
-git clone https://github.com/ChetanMahajan715/BankAssist-Chatbot.git
-cd BankAssist-Chatbot
+git clone https://github.com/ChetanMahajan715/bankassist-chatbot.git
+cd bankassist-chatbot
 python -m venv venv
 # Windows: venv\Scripts\activate    macOS / Linux: source venv/bin/activate
 pip install -r backend/requirements.txt
